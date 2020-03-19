@@ -1,5 +1,4 @@
 import React from "react";
-import PWAPrompt from 'react-ios-pwa-prompt'
 import PWAPrompt from "./components/PWAPrompt";
 
 const deviceCheck = () => {
